@@ -38,13 +38,14 @@ ICPSR Summer Program in Quantitative Methods
 ### Research Interests {#skills}
 
 * Political Economy
-  : Domestic politics of globalization
+  : Globalization
   : Distributive politics
-  : Economic conflict/contention
+  : System-level contention
 
 * Media
-  : Comparative politics of the media
   : Media and political behavior
+  : Media and contentious politics
+
 
 * Research Methods
   : Time-series
