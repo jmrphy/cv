@@ -14,6 +14,9 @@
 Assistant Professor (Lecturer)
 : *University of Southampton, United Kingdom*
   __2013-Present__
+  Department of Politics and International Relations        
+  Murray Building (58)         
+  Southampton, UK, SO17 1BJ      
 
 ------
 
@@ -34,10 +37,10 @@ ICPSR Summer Program in Quantitative Methods
 
 ### Research Interests {#skills}
 
-* Political Economy and Conflict
+* Political Economy
   : Domestic politics of globalization
   : Distributive politics
-  : System-level contention
+  : Economic conflict/contention
 
 * Media
   : Comparative politics of the media
@@ -103,7 +106,6 @@ Introduction to Quantitative Methods (Undergraduate), Temple University
 
 #### University Service
 
-Exams Officer, 2014          
 Digital Strategist, Politics and IR, University of Southampton, 2013-Present        
 Peer-training workshop "Introduction to R for Graduate Students in Political Science", Temple University, 2013        
 Peer-training workshop "Pierre Bourdieu and Correspondence Analysis in the Social Sciences," Data Library Brown-Bag Luncheon, Temple University, 2010       
@@ -126,9 +128,9 @@ Peer-training workshop "Pierre Bourdieu and Correspondence Analysis in the Socia
 <table cellpadding="10">
 <tr>
 <td>
-Dr. Christopher Wlezien <br>   
+Dr. Christopher Wlezien<br>   
 University of Texas, Austin <br>   
-wlezien@austin.utexas.edu <br>    
+wlezien@austin.utexas.edu<br>    
 </td>
 <td>    
 Dr. Orfeo Fioretos<br>
@@ -137,8 +139,8 @@ fioretos@temple.edu<br>
 </td>
 <td>
 Dr. Kevin Arcenaeux <br>
-Temple University <br>     
-arceneau@temple.edu <br> 
+Temple University<br>     
+arceneau@temple.edu<br> 
 </td>
 <td>
 Dr. Roselyn Hsueh<br>

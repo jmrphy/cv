@@ -1,3 +1,5 @@
+(This is a fork from https://github.com/there4/markdown-resume).
+
 # Markdown Resume Generator
 
 Turn a simple Markdown document into an elegant resume with both a perfect
