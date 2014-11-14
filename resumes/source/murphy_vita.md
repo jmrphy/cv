@@ -2,7 +2,7 @@
 ## Political Scientist  
 <br>
 
-> [Download PDF](https://github.com/jmrphy/cv/blob/master/resumes/output/murphy_vita.pdf?raw=true)     
+> [Download PDF](http://jmrphy.net/cv/resumes/output/murphy_vita.pdf)     
 > Email: [j.murphy@soton.ac.uk](j.murphy@soton.ac.uk)      
 > Website: [jmrphy.net](http://jmrphy.net)      
 > Code: [github.com/jmrphy](http://github.com/jmrphy)      
