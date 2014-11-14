@@ -2,7 +2,7 @@
 ## Political Scientist  
 <br>
 
-> [Download PDF](resume.pdf)     
+> [Download PDF](https://github.com/jmrphy/cv/blob/master/resumes/output/murphy_vita.pdf?raw=true)     
 > Email: [j.murphy@soton.ac.uk](j.murphy@soton.ac.uk)      
 > Website: [jmrphy.net](http://jmrphy.net)      
 > Code: [github.com/jmrphy](http://github.com/jmrphy)      
@@ -45,7 +45,6 @@ ICPSR Summer Program in Quantitative Methods
 * Media
   : Media and political behavior
   : Media and contentious politics
-
 
 * Research Methods
   : Time-series
