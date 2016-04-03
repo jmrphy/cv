@@ -90,6 +90,7 @@ International Studies Association
 
 ### Grants & Awards {#grants}
 
+Short-listed for the "Best Use of Technology" Excellence in Teaching Award, University of Southampton Student Union, 2013-2014    
 Small Pilot Grant for Social Network Research, Web Science DTC, University of Southampton, 2014     
 Program Scholar for ICPSR, Department of Political Science at Temple University, 2012, $2,300    
 Small Grant for Travel and Research, Temple University, 2011    
